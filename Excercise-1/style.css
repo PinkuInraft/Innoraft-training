@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    margin: 4em;
+}
+.cont1{
+    background-color:rgb(152, 51, 68);
+    height : 8em;
+    width : 100%;
+    margin-bottom: 1em;
+}
+.cont2{
+    height : 24em;
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.sb-cont1{
+    height : 100%;
+    width : 60%;
+    background-color: pink;
+    float : left;
+    padding-right: 1em;
+}
+.sb-cont2{
+    height : 100%;
+    float : right;
+    width : 36%;
+    background-color: rgb(255, 0, 43);
+    padding-left: 1em;
+}
+.cont3{
+    height : 8em;
+    background-color: rgb(66, 0, 11);
+    margin-top:1em;
+}
