@@ -1,38 +1,38 @@
 *{
     margin:0;
     padding:0;
+    box-sizing: border-box;
 }
 .main{
     margin: 4em;
 }
 .cont1{
-    background-color:rgb(152, 51, 68);
+    background-color:#FF4DA6;
     height : 8em;
     width : 100%;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 .cont2{
     height : 24em;
     width: 100%;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    overflow: hidden;
 }
 .sb-cont1{
     height : 100%;
     width : 60%;
-    background-color: pink;
+    background-color: #FF037E;
     float : left;
-    padding-right: 1em;
 }
 .sb-cont2{
     height : 100%;
     float : right;
-    width : 36%;
-    background-color: rgb(255, 0, 43);
-    padding-left: 1em;
+    width : 39%;
+    background-color: #CE0468;
 }
 .cont3{
     height : 8em;
-    background-color: rgb(66, 0, 11);
-    margin-top:1em;
+    background-color: #802755;
+    margin-top:0.5em;
 }
