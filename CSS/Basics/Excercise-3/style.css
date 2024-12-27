@@ -3,11 +3,11 @@
     padding:0;
     box-sizing: border-box;
 }
-body{
+.container{
     background-color: #E70000;
     color:white;
+    margin: 1em;
 }
-
 .hero{
     padding: 2em 1em;
     margin : 4em;
@@ -20,11 +20,11 @@ body{
     text-align: left;
 }
 .hero h1 {
-    font-size: 2.5em;
+    font-size: 2.5rem;
     margin-bottom: 0.5em;
 }
 .hero p {
-    font-size: 1.2em;
+    font-size: 1.2rem;
     color: rgba(255, 255, 255, 0.701);
 }
 .hero img {

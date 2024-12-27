@@ -3,8 +3,8 @@
     padding:0;
     box-sizing: border-box;
 }
-body{
-    margin: 4em;
+.container{
+    margin: 2em;
 }
 .cont1{
     background-color:#FF4DA6;
